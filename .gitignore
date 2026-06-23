@@ -1,0 +1,25 @@
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Archivos temporales de Office / LibreOffice ===
+~$*
+.~lock.*#
+*.tmp
+*.bak
+
+# === Borradores y privados (ajustar según necesidad) ===
+/00-borradores/
+*-borrador*
+*-draft*
+
+# === Comprimidos temporales ===
+*.zip.tmp
+
+# === Logs ===
+*.log
+
+# === Archivos de respaldo automático ===
+*~
+*.orig
