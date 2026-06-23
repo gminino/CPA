@@ -1,0 +1,21 @@
+# Archivos de sistema y temporales
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+*~
+*.bak
+
+# Entornos y dependencias
+.env
+.venv/
+node_modules/
+
+# Directorios de administración de Kninord (Gestión externa lucrativa)
+/kninord_admin/
+/contratos_operativos/
+/contabilidad_lucrativa/
+
+# Documentación sensible
+/documentacion_constitucion/
+/datos_privados_miembros/
